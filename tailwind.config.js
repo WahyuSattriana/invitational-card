@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
@@ -11,6 +12,11 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+    },
+    fontFamily: {
+      'aboreto': 'Aboreto',
+      'baskervville': 'Baskervville',
+      'cinzel': 'Cinzel Decorative',
     },
   },
   plugins: [],
