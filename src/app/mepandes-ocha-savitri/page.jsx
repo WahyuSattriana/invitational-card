@@ -33,8 +33,9 @@ const mepandesOchaSavitri = () => {
           </div>
           <h1 className="font-aboreto text-xl">OM SWASTYASTU</h1>
           <p className="text-center font-baskervville max-w-96">Atas Asung Kerta Wara Nugraha Ida Sang Hyang Widhi Wasa / Tuhan Yang Maha Esa, Kami bermaksud menyelenggarakan Acara Mepandes pada:</p>
-          <div className="flex flex-col justify-center items-center">
+          <div className="flex flex-col justify-center items-center gap-3 text-sm">
             <h1 className="font-aboreto text-4xl">13 DESEMBER 2024</h1>
+            <p className="text-center font-baskervville">Pukul: 13.30 - 17.00 WITA</p>
             <h1 className="font-aboreto text-base underline"><a target="_blank" href="https://calendar.app.google/5pVTBM7smVJnsk8h8">TAMBAH KE KALENDER</a></h1>
           </div>
           <p className="text-center font-baskervville max-w-96">Merupakan suatu kebahagiaan apabila Bapak/Ibu/Saudara/i berkenan hadir.<br/>Atas kehadiran dan doanya, kami mengucapkan terima kasih.</p>
