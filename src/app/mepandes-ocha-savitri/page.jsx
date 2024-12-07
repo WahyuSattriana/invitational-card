@@ -50,13 +50,13 @@ const mepandesOchaSavitri = () => {
             <h1 className="font-aboreto text-xl">OM SWASTYASTU</h1>
             <p className="text-center font-baskervville max-w-96 text-sm sm:text-base">Atas Asung Kerta Wara Nugraha Ida Sang <br/> Hyang Widhi Wasa / Tuhan Yang Maha <br/> Esa, Kami bermaksud menyelenggarakan<br/> Acara Mepandes pada:</p>
             <div className="flex flex-col justify-center items-center gap-3 text-sm">
-              <h1 className="font-aboreto text-4xl">13 DESEMBER 2024</h1>
+              <h1 className="tanggalnyawoy font-aboreto text-4xl" style={{ textShadow: '0px 0px 10px white' }}>13 DESEMBER 2024</h1>
               <p className="text-center font-baskervville">Pukul: 13.30 - 17.00 WITA</p>
               <h1 className="font-aboreto text-base underline"><a target="_blank" href="https://calendar.app.google/5pVTBM7smVJnsk8h8">TAMBAH KE KALENDER</a></h1>
             </div>
             <p className="text-center font-baskervville max-w-96 text-sm sm:text-base">Merupakan suatu kebahagiaan<br/>apabila Bapak/Ibu/Saudara/i<br/> berkenan hadir.<br/> Atas kehadiran dan doanya, kami<br/> mengucapkan terima kasih.</p>
           </div>
-          <Image fill alt="oldbg" quality={100} src={oldbg} sizes="cover" className="absolute object-cover -z-30 opacity-80"/>
+          <Image fill alt="oldbg" quality={100} src={oldbg} sizes="cover" className="absolute object-cover -z-30 opacity-50"/>
         </section>
 
         <section className="min-h-screen bg-transparent relative flex items-center justify-center mb-5">
