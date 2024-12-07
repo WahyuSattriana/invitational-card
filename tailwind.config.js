@@ -17,6 +17,7 @@ module.exports = {
       'aboreto': 'Aboreto',
       'baskervville': 'Baskervville',
       'cinzel': 'Cinzel Decorative',
+      'lexend': 'Lexend',
     },
   },
   plugins: [],
